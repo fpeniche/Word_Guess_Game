@@ -1,0 +1,15 @@
+* {
+    box-sizing: border-box;
+  }
+
+  #display{
+    font-size: 30px;
+    line-height: 30px;
+    margin-bottom: 30px;
+  }
+
+  #startover{
+      border-width: 1px;
+      border-style: solid;
+      border-color: black;
+  }
